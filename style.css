@@ -31,7 +31,8 @@ h1 {
 
 html, body {
 font-size: 16px;
-padding: 5x;
+padding-left: 20px;
+padding-right: 20px;
 max-width: 750px;
 font-family: sans-serif;
 display: block;
